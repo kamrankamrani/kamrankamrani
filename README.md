@@ -57,5 +57,6 @@
 
 <br/><br/> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrankamrani)](https://github.com/kamrankamrani/github-readme-stats)
-
+<div id="langs" align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrankamrani&layout=compact&theme=vision-friendly-dark&bg_color=212121" />
+</div>
