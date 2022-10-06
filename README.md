@@ -57,6 +57,5 @@
 
 <br/><br/> 
 
-<div id="langs" align="center">
-	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrankamrani)](https://github.com/kamrankamrani/github-readme-stats)
-</div> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrankamrani)](https://github.com/kamrankamrani/github-readme-stats)
+
